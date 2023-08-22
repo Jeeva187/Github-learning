@@ -1,1 +1,55 @@
-Github learning sesion
+all html are built by using html tags
+in html we have closing as well as non-self closing tags
+html basic terminologies
+1.element : combination of tag and content
+p tag is basically for the content
+Heading tags :
+H1-H6
+
+a tag or anchor tag :
+establishing the between documents
+syntax : <a href="" target=""></a>
+here href represents attribute of the tag
+attribute : represnts the additional information
+target : attribute represents where the document has to be opened
+
+forms:helps us to collect the information of the user
+HTML forms :
+we use the form tags
+label:
+labels helps us to identify the form field
+for this we use <label for=""></label> tag 
+here for is the attribute
+the for attribute of the label must be same as the id attribute of the input type tag
+purpose:it has to be binded together
+br:line breaker
+
+create an HTML page for the following
+1.first name
+2.middle name 
+3.last name
+4.email
+5.password
+6.upload a pdf file
+
+by default form will have the GET method
+so whatever you enter it will appear on the URL
+form method:post
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
