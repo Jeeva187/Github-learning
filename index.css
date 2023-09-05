@@ -1,6 +1,20 @@
-.main {
-    background-color: green;
+body{
+    background-color:yellow;
 }
-.main {
-    background-color: green;
+.box-part{
+    background-color: white;
+margin-top: 60px;
+padding: 30px 10px;
+}
+.fa{
+    color: blue;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+P{
+    margin-top: 30PX;
+}
+.box{
+    padding: 60px 0px;
 }
